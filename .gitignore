@@ -1,0 +1,12 @@
+# Xcode
+build/
+DerivedData/
+*.xcworkspace
+*.xcodeproj/project.xcworkspace
+*.xcuserdatad
+*.moved-aside
+*.pbxuser
+*.perspectivev3
+xcuserdata/
+*.swp
+*.xcscmblueprint
